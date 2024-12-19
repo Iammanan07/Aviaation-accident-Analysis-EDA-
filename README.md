@@ -1,5 +1,6 @@
 
 Overview
+
 This project aims to analyze aviation accident data to uncover trends, patterns, and insights. Using data visualization and statistical techniques, the project explores critical factors that contribute to aviation accidents, such as weather conditions, human errors, mechanical failures, and geographical influences.
 
 Objectives
