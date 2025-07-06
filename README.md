@@ -2,7 +2,6 @@
 
 This project performs a detailed exploratory data analysis (EDA) on global aviation accident data. It aims to uncover critical trends, identify recurring causes, and offer actionable insights that can help enhance aviation safety. By visualizing and analyzing patterns, this project helps understand when, where, and why accidents happen.
 
----
 
 ## 🔍 Objective
 
